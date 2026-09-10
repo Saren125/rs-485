@@ -1,5 +1,6 @@
-# RS-485 MCU Load Control Module (Work in Progress) / Модуль Управления Нагрузкой с Интерфейсом RS-485 на МК (В разработке)
+<img width="1030" height="951" alt="rs-485 3d" src="https://github.com/user-attachments/assets/8967e4ca-bb22-4e3d-ba58-c6deed08796c" />
 
+# RS-485 MCU Load Control Module / Модуль Управления Нагрузкой с Интерфейсом RS-485 на МК
 [English](#english) | [Русский](#русский)
 
 ---
@@ -11,8 +12,7 @@ A robust, industrial-grade microcontroller module designed for load control and 
 
 The module features a highly reliable dual-stage power architecture and strict isolation between high-power switching nodes and sensitive digital logic to ensure flawless operation in high-noise industrial environments.
 
-> **Status:** Schematics completed. PCB layout and manufacturing files are currently under development.
-
+> **Status:** Fully completed.
 ### Technical Specifications
 * **Microcontroller:** STMicroelectronics **STM32F103C8T6** (ARM Cortex-M3)
 * **Interface:** Isolated RS-485 using **ADM2587EBRWZ** (Features integrated signal and power galvanic isolation).
@@ -36,7 +36,7 @@ The module features a highly reliable dual-stage power architecture and strict i
 
 В модуле реализована двухступенчатая топология питания и жесткое разделение силовых и сигнальных цепей для стабильной работы в условиях высокого уровня индустриальных помех.
 
-> **Текущий статус:** Схема полностью готова. Трассировка печатной платы и подготовка файлов для производства находятся в активной разработке.
+> **Текущий статус:** Готов
 
 ### Технические характеристики
 * **Микроконтроллер:** STMicroelectronics **STM32F103C8T6** (ARM Cortex-M3)
